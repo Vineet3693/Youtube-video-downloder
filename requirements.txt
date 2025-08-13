@@ -1,0 +1,8 @@
+
+streamlit>=1.28.0
+yt-dlp>=2023.7.6
+pandas>=1.5.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+plotly>=5.15.0
